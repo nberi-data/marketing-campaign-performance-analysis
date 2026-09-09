@@ -35,3 +35,18 @@ Data quality checks confirmed:
 
 View the data validation and quality check queries here: [sql/01_data_validation.sql](sql/01_data_validation.sql)
 
+## Data Cleaning & Transformation
+Following data validation, the original dataset was transformed into a new analysis-ready table using SQL. New features and calculated metrics were derived from existing campaign data to support more detailed performance analysis. 
+
+The transformation included creating:
+- **Date-based features:** campaign duration, month, and quarter
+- **Engagement metrics:** click-through rate (CTR)
+- **Conversion metrics:** lead conversion rate & sales conversion rate
+- **Cost efficiency metrics:** cost per lead & cost per conversion
+- **Return metrics:** return on ad spend (ROAS) & profit
+
+The resulting table consolidated the original data with these newly derived features, providing a clean and structured dataset for analysis and Tableau visualization.
+
+View the data cleaning and transformation queries here: [sql/02_data_cleaning_transformation.sql](sql/02_data_cleaning_transformation.sql)
+
+
