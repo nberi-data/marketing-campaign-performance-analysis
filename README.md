@@ -49,4 +49,16 @@ The resulting table consolidated the original data with these newly derived feat
 
 View the data cleaning and transformation queries here: [sql/02_data_cleaning_transformation.sql](sql/02_data_cleaning_transformation.sql)
 
+## Data Analysis
+The cleaned dataset was analyzed using SQL to evaluate campaign performance across channels, time periods, and campaign characteristics. 
+
+The analysis focused on:
+- **Overall campaign performance:** evaluating total campaigns, ad spend, revenue, profit, ROI, ROAS, and CTR.
+- **Channel performance:** comparing profitability, ROI, and ROAS across marketing channels.
+- **Conversion & engagement efficiency:** analyzing CTR, lead conversion rates, sales conversion rates, and acquisition costs by channel.
+- **Time-based performance:** examining campaign performance across monthly and quarterly periods.
+- **Campaign profitability:** identifying the top 10 campaigns by profit.
+- **Campaign duration:** evaluating whether campaign length influences profitability, ROAS, and sales conversion rates.
+
+View the data analysis queries here: [sql/03_data_analysis.sql](sql/03_data_analysis.sql)
 
