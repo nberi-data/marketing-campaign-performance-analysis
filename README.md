@@ -20,8 +20,8 @@ The original dataset was obtained from Kaggle. The original Kaggle listing is no
 - **Data Source:** [View Dataset](https://raw.githubusercontent.com/nberi-data/marketing-campaign-performance-analysis/refs/heads/main/data/marketing_campaign_dataset.csv)
 
 ## Tools & Skills Used
-- **SQL:** Data validation, cleaning, transformation, feature engineering, and analysis.
-- **Tableau:** Interactive dashboard design, data visualization, calculated fields, dynamic filters, and data storytelling.
+- **SQL:** data validation, cleaning, transformation, feature engineering, and analysis.
+- **Tableau:** interactive dashboard design, data visualization, calculated fields, dynamic filters, and data storytelling.
 
 ## Data Validation 
 The dataset was validated using SQL prior to analysis. 
