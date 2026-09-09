@@ -19,3 +19,5 @@ Key metrics include impressions, clicks, leads, conversions, cost, revenue, and 
 The original dataset was obtained from Kaggle. The original Kaggle listing is no longer available; a copy of the original dataset used for this analysis is included in the [Data](https://github.com/nberi-data/marketing-campaign-performance-analysis/tree/main/data) folder of this repository. 
 
 ## Tools & Skills Used
+- **SQL:** Data validation, cleaning, transformation, feature engineering, and analysis.
+- **Tableau:** Interactive dashboard design, data visualization, calculated fields, dynamic filters, and data storytelling.
