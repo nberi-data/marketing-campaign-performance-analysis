@@ -14,4 +14,8 @@ The dataset contains marketing campaign performance data across multiple adverti
 - Search
 - Social
 
+Key metrics include impressions, clicks, leads, conversions, cost, revenue, and ROI.
+
+The original dataset was obtained from Kaggle. The original Kaggle listing is no longer available, so a copy of the dataset used for this analysis is included in the Data folder of this repository. 
+
 ## Tools & Skills Used
