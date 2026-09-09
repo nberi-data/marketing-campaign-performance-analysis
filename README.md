@@ -4,3 +4,4 @@ This project analyzes the performance of 10,000 marketing campaigns across five 
 - **Tableau Public Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/nicole.beri/viz/Marketing_Campaign_Performance_Analysis/MainDashboard)
 
 ## Business Objective
+The analysis aims to maximize capital efficiency and optimize funnel performance by identifying which channels deliver the strongest returns and conversion performance, pinpointing underperformance, and assessing where improvements can be made across the marketing funnel.
