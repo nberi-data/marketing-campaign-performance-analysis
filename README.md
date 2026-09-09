@@ -17,7 +17,7 @@ The dataset contains marketing campaign performance data across the following ad
 Key metrics include impressions, clicks, leads, conversions, cost, revenue, and ROI.
 
 The original dataset was obtained from Kaggle. The original Kaggle listing is no longer available; a copy of the original dataset used for this analysis is included in the [Data](https://github.com/nberi-data/marketing-campaign-performance-analysis/tree/main/data) folder of this repository. 
--**Data Source**: [View Dataset](https://raw.githubusercontent.com/nberi-data/marketing-campaign-performance-analysis/refs/heads/main/data/marketing_campaign_dataset.csv)
+- **Data Source:** [View Dataset](https://raw.githubusercontent.com/nberi-data/marketing-campaign-performance-analysis/refs/heads/main/data/marketing_campaign_dataset.csv)
 
 ## Tools & Skills Used
 - **SQL:** Data validation, cleaning, transformation, feature engineering, and analysis.
