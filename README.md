@@ -23,7 +23,7 @@ The original dataset was obtained from Kaggle. The original Kaggle listing is no
 - **SQL:** Data validation, cleaning, transformation, feature engineering, and analysis.
 - **Tableau:** Interactive dashboard design, data visualization, calculated fields, dynamic filters, and data storytelling.
 
-## Data Validation & Preparation
+## Data Validation 
 The dataset was validated using SQL prior to analysis. 
 
 Data quality checks confirmed:
