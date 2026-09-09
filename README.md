@@ -7,7 +7,7 @@ This project analyzes the performance of 10,000 marketing campaigns across five 
 The analysis aims to maximize capital efficiency and optimize funnel performance by identifying which channels deliver the strongest returns and conversion performance, pinpointing underperformance, and assessing where improvements can be made across the marketing funnel.
 
 ## Data
-The dataset contains marketing campaign performance data across multiple advertising channels, including:
+The dataset contains marketing campaign performance data across the following advertising channels:
 - Display
 - Email
 - Influencer
