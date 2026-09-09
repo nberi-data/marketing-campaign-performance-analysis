@@ -22,3 +22,16 @@ The original dataset was obtained from Kaggle. The original Kaggle listing is no
 ## Tools & Skills Used
 - **SQL:** Data validation, cleaning, transformation, feature engineering, and analysis.
 - **Tableau:** Interactive dashboard design, data visualization, calculated fields, dynamic filters, and data storytelling.
+
+## Data Validation & Preparation
+The dataset was validated using SQL prior to analysis. 
+
+Data quality checks confirmed:
+- 10,000 unique campaign records (no duplicates)
+- No null values
+- No negative values in numerical performance metrics
+- No chronological errors between campaign start and end dates
+- No violations in the expected marketing funnel sequence
+
+View the data validation and quality check queries here: [sql/01_data_validation.sql](sql/01_data_validation.sql)
+
