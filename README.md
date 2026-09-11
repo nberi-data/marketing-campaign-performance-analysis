@@ -79,3 +79,17 @@ Social generated the lowest ROI at 98.8% and the lowest total profit at $4.81M a
 Campaign duration has very little impact on sales conversion rates. Campaigns lasting 1–5 days achieved a 40.1% sales conversion rate, compared with 40.3% for 6–10 day campaigns, and 39.9% for campaigns lasting 11–15 days.
 ![Campaign Duration Chart](images/06_campaign_duration.png) 
 
+## Recommendations
+### 1. Scale High-Efficiency Channels: 
+Prioritize budget expansion toward Search and Influencer campaigns, which deliver the strongest combination of return and conversion efficiency. Increasing investment in these channels can help maximize profitable conversions while maintaining efficient acquisition costs.
+
+### 2. Optimize Social Channel Performance: 
+Social generates the lowest ROI and profit among channels, indicating an opportunity to improve campaign efficiency. Test stronger audience targeting, creative formats, and budget allocation to improve returns before increasing spend.
+
+### 3. Strengthen Top-of-Funnel Engagement: 
+Only 5.5% of impressions generate clicks, suggesting the largest drop-off occurs at the top of the funnel. Strengthen ad creative, messaging, and calls-to-action to increase engagement and move more users into the conversion journey.
+
+## Dashboard Preview
+![Main Dashboard](images/01_main_dashboard.png)
+
+![Insights Dashboard](images/02_insights_dashboard.png)
