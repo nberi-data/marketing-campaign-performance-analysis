@@ -65,14 +65,17 @@ View the data analysis queries here: [sql/03_data_analysis.sql](sql/03_data_anal
 ## Key Insights
 ### 1. Display Leads in Profit, While Influencer & Search Lead in Efficiency
 Although Display generates the highest total profit at $5.37M, Influencer and Search demonstrate stronger overall efficiency. Influencer achieves the lowest cost per conversion at $9.11 and generates 2.10M conversions, while Search delivers the highest ROI at 101.3% and the highest ROAS of 2.01×.
+![Profit vs Efficiency Chart](images/03_profit_vs_efficiency.png) 
 
 ### 2. The Largest Funnel Drop-Off Occurs at the Top of the Funnel
 Only 5.5% of impressions resulted in clicks, representing the largest drop-off in the marketing funnel. In comparison, 30.1% of clicks generated leads and 40.2% of leads converted into sales. This suggests that improving top-of-funnel engagement could have the greatest potential to increase conversions.
+![Marketing Funnel](images/04_marketing_funnel.png) 
 
 ### 3. Social Presents the Largest Optimization Opportunity
 Social generated the lowest ROI at 98.8% and the lowest total profit at $4.81M among the five channels. The results suggest an opportunity to improve targeting, creative strategy, and budget allocation.
+![Optimization Opportunity](images/05_optimization_opportunity.png) 
 
 ### 4. Campaign Duration Has Minimal Impact on Sales Conversion
 Campaign duration has very little impact on sales conversion rates. Campaigns lasting 1–5 days achieved a 40.1% sales conversion rate, compared with 40.3% for 6–10 day campaigns, and 39.9% for campaigns lasting 11–15 days.
-
+![Campaign Duration Chart](images/06_campaign_duration.png) 
 
